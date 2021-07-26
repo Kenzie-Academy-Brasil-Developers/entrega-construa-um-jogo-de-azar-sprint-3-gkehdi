@@ -8,7 +8,6 @@ const answer=document.querySelector("#answer");
 button.addEventListener("click", function(){
 let numAleatorio = jogar();
 let phrase = "";
-//alert(numAleatorio);
 
 if(numAleatorio === 0){
     
