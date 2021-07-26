@@ -1,0 +1,52 @@
+body{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background-color: yellow;
+  
+
+}
+    h1{
+   
+    font-size: 40px;
+    border-radius: 5px;
+
+   
+}
+#box{
+    justify-content: center;
+    text-align: center;
+}
+#answer{
+    height: 50px;
+}
+
+textarea{
+    border-radius: 5px;
+    height: 60px;
+}
+
+img{
+
+    border-radius: 10px;
+    width: 600px;
+}
+
+#botao{
+
+    margin-top: 30px;
+    border-radius: 5px;
+}
+
+#answer{
+
+    background-color: black;
+    border-radius: 15px;
+    color: ghostwhite;
+    font-weight: bolder;
+    margin-top: 20px;
+    height: 18px;
+    margin:20px 540px 0px 540px;
+    text-align: center;
+}
